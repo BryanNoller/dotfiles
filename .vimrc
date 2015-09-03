@@ -32,7 +32,6 @@ endif
 
 let g:proj_flags = 'cgS'
 
-let g:incpy#Name = "python-output"
 let g:incpy#WindowPosition = "below"
 let g:incpy#WindowRatio = 1.0/8
 let g:incpy#WindowFixed = 1
